@@ -2,7 +2,7 @@
 
 This is roughly what I said during the presentation: 
 
-Good afternoon everybody. My name is Belén, I am the designer for something called the Yocto Project, which is a Linux Foundation initiative. 
+Good afternoon everybody. My name is Belén, I am the designer in something called the Yocto Project, which is a Linux Foundation initiative. 
 
 Like all Linux Foundation initiatives, the Yocto Project is FOSS. What is this FOSS thing? Well, FOSS is an acronym. The acronym stands for Free and Open Source Software. 
 
