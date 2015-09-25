@@ -2,7 +2,8 @@
 
 This is the script of the presentation about design in FOSS that I gave at the EuroIA conference in Madrid in September 2015. 
 
-If you have any questions or commnets, you can get in touch with me at belenbarrospena@gmail.com
+If you have any questions or comments, you can get in touch with me at belenbarrospena@gmail.com
+
 ================================================================
 
 Good afternoon everybody. My name is Belén, I am the designer in something called the Yocto Project, which is a Linux Foundation initiative. 
