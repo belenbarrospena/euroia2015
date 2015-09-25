@@ -1,6 +1,6 @@
 # 'The state of design in FOSS', a EuroIA 2015 presentation
 
-This is the script of the presentation about design in FOSS that I gave at the EuroIA conference in Madrid in September 2015. 
+This is the script of the presentation about design in FOSS that I gave at the EuroIA conference in Madrid in September 2015. The presentation slides are available at http://belenbarrospena.github.io/euroia2015/
 
 If you have any questions or comments, you can get in touch with me at belenbarrospena@gmail.com
 
